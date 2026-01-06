@@ -24,4 +24,5 @@ einkun 10 ef allt er í lagi
 Lesefni:
 
 [Lesefni 1](https://www.thetechmentor.com/posts/easy-rj45-wiring-with-rj45-pinout-pic/)
+
 [Lesefni 2](https://www.groundcontrol.com/knowledge/guides/making-ethernet-cables-simple-and-easy/))
