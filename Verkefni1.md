@@ -4,7 +4,7 @@ vægi 10% af lokaeinkunn
 
 Búið til repository í github ef það er ekki til (KEST2V) og verkefni1.md skjal sem sýnir svar við spurningu
 1. Búið til ethernet kapall (stuttan 20 - 30 cm) af B gerð (straight-through) 4%
-2. Búið til ethernet kapall (stuttan 20 - 30 cm) af A gerð (cross-over) 4%
+2. Búið til ethernet kapall (stuttan 20 - 30 cm) af B gerð í A gerð (cross-over) 4%
 3. Svarið þessari spurningu
     Hver er munurinn á CAT5e og CAT6 ethernetkapli? 2% 
 
