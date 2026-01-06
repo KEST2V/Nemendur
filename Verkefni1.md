@@ -15,10 +15,13 @@ Búnaður sem þarf:
 4. Mælir fyrir ethernetsnúru
    
 Námsmat:
+
 Munað að sýna kennara alla virkni
 einkunn 0 ef ekkert virkar
 einkunn 5 ef virkar en kápan nær ekki inn í botn á tengi
 einkun 10 ef allt er í lagi
+
 Lesefni:
+
 [Lesefni 1](https://www.thetechmentor.com/posts/easy-rj45-wiring-with-rj45-pinout-pic/)
 [Lesefni 2](https://www.groundcontrol.com/knowledge/guides/making-ethernet-cables-simple-and-easy/))
