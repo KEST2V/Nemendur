@@ -1,6 +1,6 @@
 ## Verkefni 2 tölvusamsetning - kynnast eigin laptop
 
-vægi 20% af lokaeinkunn
+vægi 10% af lokaeinkunn
 
 
 ### Búðu til skjal/skýrslu sem heitir verkefni2.md 
