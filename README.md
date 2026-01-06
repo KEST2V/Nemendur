@@ -1,0 +1,2 @@
+# Nemendur
+Verkefni áfangans
