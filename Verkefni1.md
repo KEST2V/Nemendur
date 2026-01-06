@@ -2,11 +2,12 @@
 
 vægi 10% af lokaeinkunn
 
-Búið til repository í github ef það er ekki til (KEST2V) og verkefni1.md skjal sem sýnir svar við spurningu
-1. Búið til ethernet kapall (stuttan 20 - 30 cm) af B gerð (straight-through) 4%
-2. Búið til ethernet kapall (stuttan 20 - 30 cm) af B gerð í A gerð (cross-over) 4%
+Búðu til repository í github ef það er ekki til (KEST2V) og verkefni1.md skjal/skýrsla sem inniheldur myndir, svar við spurningu og ca. 100 orða lýsingu á framkvæmd verkefnisins.
+1. Búðu til ethernet kapall (stuttan 20 - 30 cm) af B gerð (straight-through) 3%
+2. Búðu til ethernet kapall (stuttan 20 - 30 cm) af B gerð í A gerð (cross-over) 3%
 3. Svarið þessari spurningu
-    Hver er munurinn á CAT5e og CAT6 ethernetkapli? 2% 
+    Hver er munurinn á CAT5e og CAT6 ethernetkapli? 2%
+4. Skrifaðu ca. 100 orða skýrslu um vinnu þína við snúrugerðina sem inniheldur myndir af snúruhausum beggja kapla og lýsingu á vinnunni við að fullgera snúrgerð T-568A og T-568B 
 
 Búnaður sem þarf:
 1. RJ-45 Töng (Crimping tool)
@@ -16,10 +17,10 @@ Búnaður sem þarf:
    
 Námsmat:
 
-Munað að sýna kennara alla virkni
+Mundu að sýna kennara alla virkni
 * einkunn 0 ef ekkert virkar
 * einkunn 5 ef virkar en kápan nær ekki inn í botn á tengi
-* einkun 10 ef allt er í lagi
+* einkunn 10 ef allt er í lagi
 
 Lesefni:
 
