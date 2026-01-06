@@ -1,10 +1,13 @@
 ## Verkefni 1 snúrugerð (ethernet)
+
 vægi 10% af lokaeinkunn
+
 Búið til rep ef það er ekki til (KEST2V) og verkefni1.md skjal sem sýnir svar við spurningu
 1. Búið til ethernet kapall (stuttan 20 - 30 cm) af A gerð (straight-thru) 4%
 2. Búið til ethernet kapall (stuttan 20 - 30 cm) af B gerð (straight-thru) 4%
 3. Svarið þessari spurningu
     Hver er munurinn á CAT5e og CAT6 ethernetkapli? 2%
+
 Búnaður sem þarf:
 1. RJ-45 Töng (Crimping tool)
 2. 4 stk rj45 tengi
