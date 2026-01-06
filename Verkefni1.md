@@ -17,9 +17,9 @@ Búnaður sem þarf:
 Námsmat:
 
 Munað að sýna kennara alla virkni
-einkunn 0 ef ekkert virkar
-einkunn 5 ef virkar en kápan nær ekki inn í botn á tengi
-einkun 10 ef allt er í lagi
+* einkunn 0 ef ekkert virkar
+* einkunn 5 ef virkar en kápan nær ekki inn í botn á tengi
+* einkun 10 ef allt er í lagi
 
 Lesefni:
 
