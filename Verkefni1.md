@@ -2,7 +2,7 @@
 
 vægi 10% af lokaeinkunn
 
-Búið til rep ef það er ekki til (KEST2V) og verkefni1.md skjal sem sýnir svar við spurningu
+Búið til repository í github ef það er ekki til (KEST2V) og verkefni1.md skjal sem sýnir svar við spurningu
 1. Búið til ethernet kapall (stuttan 20 - 30 cm) af A gerð (straight-thru) 4%
 2. Búið til ethernet kapall (stuttan 20 - 30 cm) af B gerð (straight-thru) 4%
 3. Svarið þessari spurningu
