@@ -2,7 +2,8 @@
 
 vægi 10% af lokaeinkunn
 
-Búðu til repository í github ef það er ekki til (KEST2V) og verkefni1.md skjal/skýrsla sem inniheldur myndir, svar við spurningu og ca. 100 orða lýsingu á framkvæmd verkefnisins.
+### Búðu til repository í github ef það er ekki til (KEST2V) og settu kennarann þinn sem samstarfsmann (e. collaborator) inná geymsluna. 
+#### Búðu svo til skjal/skýrslu sem heitir verkefni1.md sem inniheldur myndir, svar við spurningu og ca. 100 orða lýsingu á framkvæmd verkefnisins.
 1. Búðu til ethernet kapall (stuttan 20 - 30 cm) af B gerð (straight-through) 3%
 2. Búðu til ethernet kapall (stuttan 20 - 30 cm) af B gerð í A gerð (cross-over) 3%
 3. Svarið þessari spurningu
