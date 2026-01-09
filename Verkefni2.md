@@ -19,6 +19,6 @@ Námsmat:
 
 Lesefni:
 
-[mynd cpu](<img src="[cpu yoga.jpg)" alt="Description" width="300" height="200">
+<img src="cpu yoga.jpg" alt="Description" width="300" height="200">
 
 
