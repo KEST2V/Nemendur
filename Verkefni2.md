@@ -19,6 +19,5 @@ Námsmat:
 
 Lesefni:
 
-<img src="cpu yoga.jpg" alt="Mynd af cpu yoga" width="300" height="200">
 
 
