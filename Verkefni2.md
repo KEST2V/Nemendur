@@ -19,6 +19,6 @@ Námsmat:
 
 Lesefni:
 
-[mynd cpu](<img src="[image.jpg](https://github.com/KEST2V/Nemendur/blob/main/cpu%20yoga.jpg)" alt="Description" width="300" height="200">
+[mynd cpu](<img src="[image.jpg](/cpu%20yoga.jpg)" alt="Description" width="300" height="200">
 
 
