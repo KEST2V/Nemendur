@@ -19,4 +19,6 @@ Námsmat:
 
 Lesefni:
 
+[mynd cpu](<img src="image.jpg" alt="Description" width="300" height="200">
+
 
