@@ -14,7 +14,7 @@ skilið svo slóð verkefnisins þ.e repo í Innu verkefni3:
 
 3.1.2.7 Lab - Install Third-Party Software in Windows [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/3.1.2.7%20Lab%20-%20Install%20Third-Party%20Software%20in%20Windows.pdf)
 
-10.2.1.8 Lab - Create a Partition in Windows
+10.2.1.8 Lab - Create a Partition in Windows [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/10.2.1.8%20Lab%20-%20Create%20a%20Partition%20in%20Windows.pdf)
 
 11.1.2.5 Lab - Explore the Windows Desktop
 
