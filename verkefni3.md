@@ -20,7 +20,7 @@ skilið svo slóð verkefnisins þ.e repo í Innu verkefni3:
 
 11.1.3.4 Lab - Work with Task Manager [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/11.1.3.4%20Lab%20-%20Work%20with%20Task%20Manager.pdf)
 
-11.1.4.11 Lab - Working with File Explorer
+11.1.4.11 Lab - Working with File Explorer [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/11.1.4.11%20Lab%20-%20Working%20with%20File%20Explorer.pdf)
 
 11.2.1.5 Lab - Explore Control Panel Categories
 
