@@ -16,7 +16,7 @@ skilið svo slóð verkefnisins þ.e repo í Innu verkefni3:
 
 10.2.1.8 Lab - Create a Partition in Windows [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/10.2.1.8%20Lab%20-%20Create%20a%20Partition%20in%20Windows.pdf)
 
-11.1.2.5 Lab - Explore the Windows Desktop
+11.1.2.5 Lab - Explore the Windows Desktop [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/11.1.2.10%20Lab%20-%20Explore%20the%20Windows%20Desktop.pdf)
 
 11.1.3.4 Lab - Work with Task Manager
 
