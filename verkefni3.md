@@ -12,7 +12,7 @@ skilið svo slóð verkefnisins þ.e repo í Innu verkefni3:
 
 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates [LAB]([Lab/3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates.pdf](https://github.com/KEST2V/Nemendur/blob/main/Lab/3.1.2.5%20Lab%20-%20Search%20for%20BIOS%20or%20UEFI%20Firmware%20Updates.pdf))
 
-3.1.2.7 Lab - Install Third-Party Software in Windows
+3.1.2.7 Lab - Install Third-Party Software in Windows [LAB](https://github.com/KEST2V/Nemendur/blob/main/Lab/3.1.2.7%20Lab%20-%20Install%20Third-Party%20Software%20in%20Windows.pdf)
 
 10.2.1.8 Lab - Create a Partition in Windows
 
