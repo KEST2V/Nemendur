@@ -10,7 +10,7 @@ Verkefnið er einstaklingsverkefni. Verkefnið skal halda utan um í lokaðri ge
 ### 1. Uppsetning á Windows og grunn stillingar (10%)
 - Setjið upp nýja Windows 10 eða 11 uppsetningu á tölvuna.
 - Búið ykkur til sem notanda í uppsetningarferlinu.
-- Breytið nafninu (e. computer name) á tölvunni í KEST2VW-[nöfnin ykkar] (án íslenskra stafa og bila (e. space)).
+- Breytið nafninu (e. computer name) á tölvunni í KEST2VW-[nafnið ykkar] (án íslenskra stafa og bila (e. space)).
 - Setjið upp Python3 (64 bita) og VS Code (með Python stuðningi).
 - Setjið upp Git á tölvuna.
 - Setjið upp annan hugbúnað eftir þörfum.
