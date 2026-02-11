@@ -8,7 +8,7 @@ Verkefnið er einstaklingsverkefni. Verkefnið skal halda utan um í lokaðri ge
 Þið eigið að setja upp eina tölvu sem frumgerð fyrir ungt hugbúnaðarfyrirtæki þar sem starfa 9 starfsmenn. 
 
 ### 1. Uppsetning á Windows og grunn stillingar (10%)
-- Setjið upp nýja Windows 11 uppsetningu á tölvuna.
+- Setjið upp nýja Windows 10 eða 11 uppsetningu á tölvuna.
 - Búið ykkur til sem notanda í uppsetningarferlinu.
 - Breytið nafninu (e. computer name) á tölvunni í KEST2VW-[nöfnin ykkar] (án íslenskra stafa og bila (e. space)).
 - Setjið upp Python3 (64 bita) og VS Code (með Python stuðningi).
