@@ -2,7 +2,7 @@
 
 Verkefnið er einstaklingsverkefni. Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com). Skilið hlekknum á geymsluna í skilahólfið á Innu. Sendið mér boð um að tengjast geymslunni.
 
-Þið þurfið að halda dagbók á github um hvað þið gerið og hvenær (10%).
+### Þið þurfið að halda dagbók á github um hvað þið gerið og hvenær (10%).
 
 ## Verkefnið
 Þið eigið að setja upp eina tölvu sem frumgerð fyrir ungt hugbúnaðarfyrirtæki þar sem starfa 9 starfsmenn. 
